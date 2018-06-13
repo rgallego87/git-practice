@@ -1,0 +1,3 @@
+Name: Rafa Gallego
+Age: 30
+Favorite Color: Blue
